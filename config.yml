@@ -1,0 +1,9 @@
+remote_theme : minimal-mistake@master
+plugins:
+- jekyll-remote-theme
+
+title: Sportsball Recognizer
+description: An Image classification API that classifies 19 diiferent types of sports ball that played all over the world.
+
+author:
+   name: Anik Roy
