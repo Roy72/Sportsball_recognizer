@@ -14,4 +14,4 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 HuggingFace Spaces App URL: https://huggingface.co/spaces/anikroy72/sportsball_recognizer
 
-Gradio App URL: https://aa658403-2945-4237.gradio.live
+
