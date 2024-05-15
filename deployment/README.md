@@ -1,5 +1,5 @@
 ---
-title: Sportsball Recognizer
+title: sportsball recognizer
 emoji: 🌍
 colorFrom: blue
 colorTo: gray
