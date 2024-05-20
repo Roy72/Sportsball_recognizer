@@ -42,7 +42,7 @@ Details can be found in `notbooks\README.md`, where `data_prep.ipynb` can be fou
 **Training:** Fine-tuned a resnet34 model for 5 epochs (1 time) & 2 epochs (2 times) and got upto ~98% accuracy. <br/>
 **Data Cleaning:** This part took the highest time. Since I collected data from browser, there were many noises. Also, there were images that contained. I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the data each time after training or finetuning, except for the last time which was the final iteration of the model. <br/>
 **Confusion Matrix:** This matrix shows the how much the model can accurately predict the images. After training the final model confusion matrix seems fine. <br/>
-<img src = "models/confuison matrix.png" width="400" height ="400"> <br/>
+<img src = "models/confuison matrix.png" width="500" height ="400"> <br/>
 Deatils can be found in `notbooks\README.md`,where `training_and_data_cleaning.ipynb` can be found.
 
 # Model Deployment
