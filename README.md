@@ -1,5 +1,5 @@
 # Sports Ball Recognizer
-# Data Overviwe
+# Data Overview
 Total of 3364 images of 19 different types of sports ball has been scraped. data folder contains the datapath.
 An image classification model from data collection, cleaning, model training, deployment and API integration. <br/>
 The goal of this project is to classify 19 different types of Sports Ball are played in different sports all over the world. <br/>
