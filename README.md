@@ -21,9 +21,8 @@ The types are following: <br/>
 15. Cricket Ball
 16. Sepak Takraw
 17. Table Tennis Ball
-18. taqiyah cap
-19. Basket Ball
-20. Lawn Bowls
+18. Basket Ball
+19. Lawn Bowls
 
 # Build From Sources
 
